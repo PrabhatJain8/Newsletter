@@ -63,5 +63,4 @@ app.post("/failure",function(req,res){
 });
 
 
-//apikey :  c59995ae99869c3ac1caab4547b6cd84-us13
-//list id : 3d6524af53
+
